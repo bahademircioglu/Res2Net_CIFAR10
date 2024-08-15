@@ -1,4 +1,4 @@
-CIFAR-10 Classification with Res2Net
+
 This repository contains a deep learning project that implements image classification on the CIFAR-10 dataset using the Res2Net model. 
 The project demonstrates how to set up and train a Res2Net model for image classification tasks and evaluates its performance.
 
@@ -18,8 +18,6 @@ timm
 
 Install the required packages using:
 
-bash
-Copy code
 pip install torch torchvision timm
 
 Dataset
